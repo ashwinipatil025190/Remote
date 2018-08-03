@@ -6,5 +6,7 @@ class Hello{
 	
 	}
 	void heyMethod(){
+		sys("hello.........how are u..kasie ho??")
 	}
+
 }
