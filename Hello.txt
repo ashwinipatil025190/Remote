@@ -1,5 +1,10 @@
 class Hello{ 
+	void myMethod(){
+	}
 	public static void main(String[] args){
 		System.out.println("helloooo world______________Welcome to git");
+	
+	}
+	void heyMethod(){
 	}
 }
