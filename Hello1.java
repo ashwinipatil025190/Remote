@@ -3,6 +3,8 @@ class Hello1{
 	}
 	public static void main(String[] args){
 		System.out.println("helloooo world______________Welcome to git");
+		Hello1 hh=new Hello1();
+		hh.heyMethod();
 	
 	}
 
